@@ -1,8 +1,8 @@
 "ixhl2rp"
 {
 	"base"		"helix"
-	"title"		"HL2 RP"
-	"author"	"nebulous.cloud"
+	"title"		"Astral Project | SWRP"
+	"author"	"Astral"
 	"category"	"rp"
 	"menusystem" "1"
 }
