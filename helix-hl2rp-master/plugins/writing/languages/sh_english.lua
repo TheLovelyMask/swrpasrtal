@@ -1,4 +1,4 @@
 
 LANGUAGE = {
-	paper = "Paper"
+	paper = "Файл"
 }
